@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilibiliCommentsLottery", "BilibiliCommentsLottery.csproj", "{35198825-AD38-4A4D-9D4D-FE3E732CFE72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35198825-AD38-4A4D-9D4D-FE3E732CFE72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35198825-AD38-4A4D-9D4D-FE3E732CFE72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35198825-AD38-4A4D-9D4D-FE3E732CFE72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35198825-AD38-4A4D-9D4D-FE3E732CFE72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9E8D513-BFD4-49AB-B612-5A3805EE29A9}
+	EndGlobalSection
+EndGlobal
