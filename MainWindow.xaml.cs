@@ -39,6 +39,7 @@ namespace BilibiliCommentsLottery
 
         public JObject ReadJson(string json)
         {
+            
             JObject jsondata = (JObject)JsonConvert.DeserializeObject(json);
             return jsondata;
         }
